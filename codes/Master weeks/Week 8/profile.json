@@ -1,0 +1,11 @@
+{
+  "user": {
+    "name": "Alice",
+    "age": 24,
+    "location": {
+      "city": "London",
+      "country": "UK"
+    }
+  },
+  "active": true
+}

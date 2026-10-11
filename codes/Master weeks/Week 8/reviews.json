@@ -1,0 +1,5 @@
+[
+  {"product": "Laptop", "rating": 5, "verified": true},
+  {"product": "Keyboard", "rating": 4, "verified": false},
+  {"product": "Mouse", "rating": 5, "verified": true}
+]
