@@ -1,0 +1,11 @@
+{
+    "user": {
+        "name": "Ahsan",
+        "age": 30,
+        "location": {
+            "city": "Karachi",
+            "contry": "Pakistan"
+        }
+    },
+    "active": true
+}

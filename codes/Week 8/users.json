@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Ahsan",
+        "age": 30,
+        "city": "karachi",
+        "skills": ["Python", "SQL", "Machine Learning", "COmputer vision"]
+    },
+    {
+        "name": "Alice",
+        "age": 30,
+        "city": "karachi",
+        "skills": ["Python", "SQL", "Machine Learning", "COmputer vision"]
+    },
+    {
+        "name": "Bob",
+        "age": 30,
+        "city": "karachi",
+        "skills": ["Python", "SQL", "Machine Learning", "COmputer vision"]
+    }
+
+]
